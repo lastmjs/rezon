@@ -1,0 +1,20 @@
+{
+  "name": "rezon",
+  "description": "",
+  "main": "rezon.js",
+  "authors": [
+    "Jordan Last <jordan.michael.last@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lastmjs/rezon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.6.1"
+  }
+}
